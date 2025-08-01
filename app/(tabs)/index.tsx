@@ -8,9 +8,7 @@ export default function Index() {
       style={styles.container}
     >
       <Text style={styles.text}>Hello</Text>
-      <Link href="/profile">
-        <Text>Go to Profile</Text>
-      </Link>
+      
     </View>
   );
 }
